@@ -75,7 +75,7 @@ This compiles popup and dashboard pages into `dist/` and bundles the Manifest V3
 3. Click **Load unpacked** in the top-left toolbar.
 4. Select the `dist` folder located in this project directory:
    ```text
-   c:\Users\ferna\OneDrive\Desktop\Bookmarky\dist
+   Bookmarky\dist
    ```
 5. Bookmarky will now appear in your extension toolbar. Click the puzzle icon to pin Bookmarky.
 
